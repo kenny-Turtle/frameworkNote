@@ -17,6 +17,7 @@
   
   # IDEA
   1.[idea好用插件](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247493705&idx=1&sn=c71b03d0cb4ed7ed4ff02fca96c61f6e&chksm=ce0e5fcaf979d6dc1d55bdea11a36c95ce9d1f471f19dee69c9cfa8702ee63121a6dc7cdc173&scene=126&sessionid=1591085757&key=5a524385902d8a6ca1fa700b125b28fefacf91dc3c277951eedff461b14ef8e57d3521a1ebe22eb873f30d1affd19c99a45f8cec24406fcca070dd8a33d6fcb7f4f2570576f501cb843ff6ac5e65feef&ascene=1&uin=MzgwMjkyMzYz&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=AU2ls6KAUuiEaZL2GyjKTzI%3D&pass_ticket=ZDpXczObGXpHXKcaNBrOimtL2ycYsB66hmMRWXojxeLBTt1qdVd2RX%2FTKCniz3uz)
+  2.[在Intellij IDEA中使用Debug](https://www.cnblogs.com/chiangchou/p/idea-debug.html)
  
  # 自我修养
   1.[Java代码精简之道](https://mp.weixin.qq.com/s/X5_6H4jtxh2LTiLvDOZoVg)

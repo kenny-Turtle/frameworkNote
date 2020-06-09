@@ -13,6 +13,8 @@
  # Java8
   1.[lambda表达式入门](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247494059&idx=3&sn=130d8c84b44f00dc7f9acd899a24e78d&chksm=ce0e5e28f979d73eef579ef99ed41ebe54d8e6742bea823c5f0c474c743b96905e4eb2b5e535&scene=126&sessionid=1591085757&key=0f1677c6a6a505f44ed43c86de8e5e1287ac10ec09214bc3ac3d1b10d0ff7a7a857b7d665260d7c349e0d9f7641b5ee3779ea53f1354f80ab4aba9f2867ff374532af046ee5c2ca8dc894e760cffe7b3&ascene=1&uin=MzgwMjkyMzYz&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=AZtLwtgD2QxgGGx2Zc79QcM%3D&pass_ticket=ZDpXczObGXpHXKcaNBrOimtL2ycYsB66hmMRWXojxeLBTt1qdVd2RX%2FTKCniz3uz)
   
+ 2.[一文掌握Lambda表达式](https://mp.weixin.qq.com/s/8k92CCGg9I6EAR7pAq698A)
+  
   
   
   # IDEA

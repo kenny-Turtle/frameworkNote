@@ -14,8 +14,12 @@
   1.[lambda表达式入门](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247494059&idx=3&sn=130d8c84b44f00dc7f9acd899a24e78d&chksm=ce0e5e28f979d73eef579ef99ed41ebe54d8e6742bea823c5f0c474c743b96905e4eb2b5e535&scene=126&sessionid=1591085757&key=0f1677c6a6a505f44ed43c86de8e5e1287ac10ec09214bc3ac3d1b10d0ff7a7a857b7d665260d7c349e0d9f7641b5ee3779ea53f1354f80ab4aba9f2867ff374532af046ee5c2ca8dc894e760cffe7b3&ascene=1&uin=MzgwMjkyMzYz&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=AZtLwtgD2QxgGGx2Zc79QcM%3D&pass_ticket=ZDpXczObGXpHXKcaNBrOimtL2ycYsB66hmMRWXojxeLBTt1qdVd2RX%2FTKCniz3uz)
   
  2.[一文掌握Lambda表达式](https://mp.weixin.qq.com/s/8k92CCGg9I6EAR7pAq698A)
+ 
+ 3.[Lanbda表达式基础知识](https://mp.weixin.qq.com/s/H4_wkiEtfp33iwevDItyKw)
   
+  4.[这一篇带你系统学习一下Stream](https://mp.weixin.qq.com/s/wCX-08m0AYY2XtwfsQACCg)
   
+  5.[高效率！让Java8的Stream对集合操作飞起来](https://mp.weixin.qq.com/s/rJFbM0pUmK0PR_ldKKGTTg)
   
   # IDEA
   1.[idea好用插件](https://mp.weixin.qq.com/s?__biz=Mzg2MjEwMjI1Mg==&mid=2247493705&idx=1&sn=c71b03d0cb4ed7ed4ff02fca96c61f6e&chksm=ce0e5fcaf979d6dc1d55bdea11a36c95ce9d1f471f19dee69c9cfa8702ee63121a6dc7cdc173&scene=126&sessionid=1591085757&key=5a524385902d8a6ca1fa700b125b28fefacf91dc3c277951eedff461b14ef8e57d3521a1ebe22eb873f30d1affd19c99a45f8cec24406fcca070dd8a33d6fcb7f4f2570576f501cb843ff6ac5e65feef&ascene=1&uin=MzgwMjkyMzYz&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=AU2ls6KAUuiEaZL2GyjKTzI%3D&pass_ticket=ZDpXczObGXpHXKcaNBrOimtL2ycYsB66hmMRWXojxeLBTt1qdVd2RX%2FTKCniz3uz)
